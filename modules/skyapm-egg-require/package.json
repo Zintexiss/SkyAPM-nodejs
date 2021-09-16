@@ -31,7 +31,7 @@
     "skyapm-nodejs": "^2.0.1"
   },
   "devDependencies": {
-    "eslint": "^4.19.1",
+    "eslint": "^7.0.0",
     "eslint-config-google": "^0.9.1",
     "eslint-plugin-header": "^1.2.0"
   }
