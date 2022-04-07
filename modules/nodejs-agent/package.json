@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/SkyAPM/SkyAPM-nodejs#readme",
   "dependencies": {
-    "async": "^2.6.1",
+    "async": "^3.2.2",
     "debug": "^3.1.0",
     "end-of-stream": "^1.4.1",
     "function-arguments": "^1.0.8",
